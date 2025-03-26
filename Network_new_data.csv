@@ -1,5 +1,0 @@
-duration,protocol_type,service,flag,src_bytes,dst_bytes,label
-1,TCP,HTTP,SF,100,200,
-3,UDP,DNS,REJ,400,1000,
-6,ICMP,FTP,S0,700,400,
-7,TCP,HTTPS,S1,900,1500,
