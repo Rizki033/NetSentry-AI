@@ -4,11 +4,8 @@ This project uses artificial intelligence to detect DDoS attacks on a network ba
 ## Technologies Used 
 
 - Python
-
 - Pandas  
-
 - Scikit-learn
-
 - Random Forest Classifier
 
 ## Installation
